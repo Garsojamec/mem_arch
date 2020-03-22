@@ -1,0 +1,39 @@
+{
+
+"name":"a",
+"number":1,
+
+"color":
+{
+  "word_form":"yellow"
+  "hue":30,
+},
+"emotion_pole":"positive",
+"emotion_arousal":"high",
+"attachment_direction":"future",
+"duration":"attitude",
+"forceful":"active",
+"TAME":
+{
+  "TA":
+  {
+    "is_TA":True,
+    "month":"first",
+    "month_week":"1st",
+    "hour1":0,
+    "hour2":13,
+    "day":"sunday",
+    "month":"first",
+    "TA":"fut_recent"
+  },
+  "EM":
+  {
+    "is_EM":False
+  }
+
+}
+
+
+
+
+}

@@ -1,0 +1,63 @@
+## List of Semantic Classes
+- location, site, ruins, construction site, etc
+- emotions
+- movement
+- books, volumes, bound print matter
+- letters, mail, fax
+- portions, copies - newspapers, notarized docs, contracts, etc
+- walls, rooms, cells, doors, etc
+- literary content, novels, movies, dramas, etc
+- vehicles
+- storey ( of a building ), layers, graduated slices
+- games, drama, film, public spectacles(?)
+- acts in a play, performance, play games, circus
+- moments in time, opportunities, accidents, spectacles
+- linear projectiles ( light rays ), beams, etc
+- orders given by authority figures... power structures(?)
+- courses of food, meals, etc
+- number of times, quantity of an instance/occurrence
+- pillars of buildings, etc
+- thin, slender, pole, stick objects ( needles, pillars, telegraph poles, matchsticks, strands (of hair? ))
+- hats, lids, tops, etc
+- walls & encompassing fixtures
+- meals
+- flowers, plants
+- clouds(?)
+- military projects, bullets, artillery shells, rockets, etc
+- works of art ( paintings, etc )
+- poles, spears, columns
+- people in social roles ( workmen, business people, etc )
+- gatherings of people ( families, companies, groupings, etc )
+- places/establishments of grouping peoples (shops, restaurants, hotels )
+- machines ( aircraft, ppianos, etc??? )
+- clothing
+- matters/affairs
+- recurring, annual conferences, classes of years, etc
+- "roll" scrolls, film, toilet paper, etc
+- 2D Shapes
+- 3D Shapes
+- small objects ( hearts, pearls, etc )
+- stones/rocks
+- material qualities
+- grains
+- small things like stamps, eggs
+- money/coin
+- artillery pieces
+- academic majors
+- flatness/roundness
+- surfaces ( mirrors, flags, etc )
+- flat objects ( video cassettes )
+- liquids ( tea, urine, etc )
+- horses & other mounts
+- shapeless masses - mud, feces, etc
+- slices - cards, slices of bread, etc
+- containers
+- songs, poems, music, etc
+- washings/rinsings
+- buildings for explicitly stated purposes
+- trips ( usually repretitive)
+- magic/supernatural
+- trees
+- incense
+- mansions/houses/etc
+- mountains
